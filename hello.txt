@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello from main branch update
+=======
+Hello from main branch
+Hello from feature branch
+>>>>>>> feature/update-hello
