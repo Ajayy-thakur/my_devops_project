@@ -1,0 +1,22 @@
+{
+  "name": "my_devops_project",
+  "version": "1.0.0",
+  "description": "This repo contains DevOps and Cloud Computing practice scripts.",
+  "main": "sum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ajayy-thakur/my_devops_project/issues"
+  },
+  "homepage": "https://github.com/Ajayy-thakur/my_devops_project#readme",
+  "devDependencies": {
+    "jest": "^30.1.3"
+  }
+}
