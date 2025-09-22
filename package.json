@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
+    "type": "git"
   },
   "keywords": [],
   "author": "",
@@ -20,3 +20,5 @@
     "jest": "^30.1.3"
   }
 }
+
+
