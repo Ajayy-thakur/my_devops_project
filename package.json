@@ -17,8 +17,7 @@
   },
   "homepage": "https://github.com/Ajayy-thakur/my_devops_project#readme",
   "devDependencies": {
+    "cypress": "^15.3.0",
     "jest": "^30.1.3"
   }
 }
-
-
